@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{660A9919-C10B-48C8-B9D0-BE85E21331B6}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\ren\u00E9 alexander\\documents\\estudios\\udb\\ciclo ii\\ped\\unidad 3\\proyecto\\sistemaventa\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{660A9919-C10B-48C8-B9D0-BE85E21331B6}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660A9919-C10B-48C8-B9D0-BE85E21331B6}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ren\u00E9 Alexander\\Documents\\Estudios\\UDB\\Ciclo II\\PED\\Unidad 3\\Proyecto\\SistemaVenta\\capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{660A9919-C10B-48C8-B9D0-BE85E21331B6}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660A9919-C10B-48C8-B9D0-BE85E21331B6}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Ren\u00E9 Alexander\\Documents\\Estudios\\UDB\\Ciclo II\\PED\\Unidad 3\\Proyecto\\SistemaVenta\\capapresentacion\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660A9919-C10B-48C8-B9D0-BE85E21331B6}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ren\u00E9 Alexander\\Documents\\Estudios\\UDB\\Ciclo II\\PED\\Unidad 3\\Proyecto\\SistemaVenta\\CapaPresentacion\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\Ren\u00E9 Alexander\\Documents\\Estudios\\UDB\\Ciclo II\\PED\\Unidad 3\\Proyecto\\SistemaVenta\\CapaPresentacion\\Login.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\Login.Designer.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowH0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:39:04.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ren\u00E9 Alexander\\Documents\\Estudios\\UDB\\Ciclo II\\PED\\Unidad 3\\Proyecto\\SistemaVenta\\CapaPresentacion\\Login.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Login.cs",
+              "ToolTip": "C:\\Users\\Ren\u00E9 Alexander\\Documents\\Estudios\\UDB\\Ciclo II\\PED\\Unidad 3\\Proyecto\\SistemaVenta\\CapaPresentacion\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T23:40:49.518Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,

@@ -1,0 +1,240 @@
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\SistemaVentasDemo.exe.config
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\SistemaVentasDemo.exe
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\SistemaVentasDemo.pdb
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteCompras.resources
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteVentas.resources
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdAcercade.resources
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdCliente.resources
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\SistemaVentasDemo.exe
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\SistemaVentasDemo.pdb
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\System.IO.Packaging.xml
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\Irony.dll
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\XLParser.dll
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\René Alexander\Downloads\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\SistemaVentasDemo.exe.config
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\SistemaVentasDemo.exe
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\SistemaVentasDemo.pdb
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\Irony.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\XLParser.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\System.IO.Packaging.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteCompras.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteVentas.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdAcercade.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdCliente.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\SistemaVentasDemo.exe
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\034_CursoSistemaVentaEscritorio-master\CapaPresentacion\obj\Debug\SistemaVentasDemo.pdb
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\SistemaVentasDemo.exe.config
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\SistemaVentasDemo.exe
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\SistemaVentasDemo.pdb
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\Irony.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\XLParser.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\System.IO.Packaging.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteCompras.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteVentas.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdAcercade.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdCliente.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\SistemaVentasDemo.exe
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\SistemaVenta\CapaPresentacion\obj\Debug\SistemaVentasDemo.pdb
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\SistemaVentasDemo.exe.config
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\SistemaVentasDemo.exe
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\SistemaVentasDemo.pdb
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\Irony.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\XLParser.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\System.IO.Packaging.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteCompras.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteVentas.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdAcercade.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdCliente.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\SistemaVentasDemo.exe
+C:\Users\René Alexander\Documents\Estudios\UDB\Ciclo II\PED\Unidad 5\Proyecto Final\SistemaVenta\CapaPresentacion\obj\Debug\SistemaVentasDemo.pdb
