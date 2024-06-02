@@ -786,6 +786,10 @@ GO
 
  GO
 
+ insert into CATEGORIA(Descripcion,Estado) values ('Móviles','1')
+
+ GO
+
   insert into PERMISO(IdRol,NombreMenu) values
   (1,'menuusuarios'),
   (1,'menumantenedor'),
